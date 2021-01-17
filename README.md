@@ -1,6 +1,7 @@
 ### Hi, I am Gustavo 👋
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Trenes Argentinos with my main project of CESE, and in the FRCU-UTN with my Degree project.
+- 👯 I’m looking to collaborate on OpenSource Projects with Embedded Systems.
 
 <!--
 **FrossGus/FrossGus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

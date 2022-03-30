@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gustavo.</h1>
-<h3 align="center">A passionate Embedded Systems, C/C++/Python/COBOL Developer from Argentina</h3>
+<h3 align="center">A passionate Embedded Systems, C/C++/Python Developer from Italy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frossgus&label=Profile%20views&color=0e75b6&style=flat" alt="frossgus" /> </p>
 

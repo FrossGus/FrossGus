@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gustavo.</h1>
-<h3 align="center">A passionate Embedded Systems, C/C++/Python Developer from Italy</h3>
+<h3 align="center">A passionate Embedded Systems, C/C++/Python Developer from Spain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frossgus&label=Profile%20views&color=0e75b6&style=flat" alt="frossgus" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=frossgus" alt="frossgus" /></a> </p>
 
-- 🔭 I’m currently working on [TCN Sniffer for Trenes Argentinos](https://www.argentina.gob.ar/transporte/trenes)
+- 🔭 I’m currently working on EV Chargers in [Circontrol SA](https://www.circontrol.com)
 
 - 👯 I’m looking to collaborate on **OpenSource Projects with Embedded Systems**
 

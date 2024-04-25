@@ -5,7 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=frossgus" alt="frossgus" /></a> </p>
 
-- 🔭 I’m currently working on EV Chargers in [Circontrol SA](https://www.circontrol.com)
+- 🔭 I’m currently working on [Dormakaba SA](https://www.dormakaba.com).
+- 🔭 I was working on EV Chargers in [Circontrol SA](https://www.circontrol.com) for two years.
 
 - 👯 I’m looking to collaborate on **OpenSource Projects with Embedded Systems**
 
